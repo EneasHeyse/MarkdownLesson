@@ -36,4 +36,4 @@ I am 24 years old, I have long blonde hair and glasses.
 3. Having patience and self awareness
 
 ─────────────────────────────────────────────────────────────
-![Pinguin's Creed](C:\Users\eneas\OneDrive\Documenten\prof\BeCode\The Field\Markdown\pinguin gif.gif)# MarkdownLesson
+![Pinguin's Creed](C:\Users\eneas\OneDrive\Documenten\prof\BeCode\The Field\Markdown\pinguin gif.gif)
